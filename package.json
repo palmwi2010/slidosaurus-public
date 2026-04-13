@@ -1,7 +1,7 @@
 {
   "name": "slidosaurus-public",
-  "version": "0.1.0",
-  "description": "Public CDN assets for Slidosaurus — icons and flags",
+  "version": "0.2.0",
+  "description": "Public CDN assets for Slidosaurus — icons (Font Awesome 6) and flags",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -9,7 +9,6 @@
   },
   "files": [
     "icons/",
-    "flags/",
-    "LICENSE-REACT-ICONS"
+    "flags/"
   ]
 }
